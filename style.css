@@ -98,7 +98,9 @@ img#hero{
     width: 25%;
     height: 25%;
     margin-top: 10%;
-    border-radius: 5%;
+    border-radius: 7%;
+    filter: grayscale(20%) brightness(90%);
+    box-shadow: 6px 6px 6px 2px grey;
 }
 
 footer{
