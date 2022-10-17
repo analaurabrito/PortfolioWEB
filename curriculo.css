@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    color: #22223b;
+    letter-spacing: 1px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+main{
+    margin: 10% 10% 10%;
+    width: 70%;
+}
+
+h3{
+    font-size: 32px;
+}
+
+h4{
+    font-size: 20px;
+    padding-top: 3%;
+}
+
+h5{
+    font-size: 15px;
+    padding-top: 1%;
+    padding-bottom: 0px;
+}
+
+p#subtitulo{
+    font-size: 11px;
+    font-weight: 600;
+    padding-left: 15px;
+    color: #6d597a;
+}
+
+.adicionais{
+    padding-left: 15px;
+}
+
+section#curriculo{
+    margin-left: 10%;
+    margin-right: 10%;
+}

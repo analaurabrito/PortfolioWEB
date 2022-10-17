@@ -129,6 +129,10 @@ p#colecao{
     padding-bottom: 1%;
 }
 
+p#colecao a{
+    color: #6d597a;
+}
+
 .container{
     width: 100%;
     margin: 20px auto;
@@ -314,6 +318,11 @@ footer{
     p#moreabout{
         width: 90%;
         padding-top: 4%;
+    }
+
+    section#curriculo{
+        margin-left: 10%;
+        margin-right: 10%;
     }
 
     section#criacoes{
